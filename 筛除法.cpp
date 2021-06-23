@@ -11,7 +11,7 @@ int main()
 		while (sum < 100)
 		{
 			sum = sum + i;
-			if (sum < 100)a[sum] = 1;
+			if (sum < 100)a[sum] = 1;//如果这个值小于100，就剔除掉
 		}
 	}
 	for (int i = 2; i < 100; i++)
