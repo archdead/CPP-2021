@@ -12,5 +12,4 @@ int main()
 	cout << "the number you imput is:" << a << endl;
 	//将这段话投递到屏幕上,再换行
 	return 0;
-
 }
